@@ -1,0 +1,78 @@
+{C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Top_assign1
+
+Top level modules:
+	TB_Top_assign1
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Xor_2in_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Xor_2in_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Xor_2in_Nbit
+
+Top level modules:
+	Xor_2in_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Or_2in_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Or_2in_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Or_2in_Nbit
+
+Top level modules:
+	Or_2in_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Mul_by2_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Mul_by2_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mul_by2_Nbit
+
+Top level modules:
+	Mul_by2_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/And_2in_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/And_2in_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module And_2in_Nbit
+
+Top level modules:
+	And_2in_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Xnor_2in_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Xnor_2in_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Xnor_2in_Nbit
+
+Top level modules:
+	Xnor_2in_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Nor_2in_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Nor_2in_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Nor_2in_Nbit
+
+Top level modules:
+	Nor_2in_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Nand_2in_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Nand_2in_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Nand_2in_Nbit
+
+Top level modules:
+	Nand_2in_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Mux_8x1_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Mux_8x1_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_8x1_Nbit
+
+Top level modules:
+	Mux_8x1_Nbit
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Top_assign1.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Top_assign1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Top_assign1
+
+Top level modules:
+	Top_assign1
+
+} {} {}} {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Div_by2_Nbit.v} {1 {vlog -work work -stats=none {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/Div_by2_Nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Div_by2_Nbit
+
+Top level modules:
+	Div_by2_Nbit
+
+} {} {}}

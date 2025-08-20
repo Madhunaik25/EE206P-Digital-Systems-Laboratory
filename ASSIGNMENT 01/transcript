@@ -1,0 +1,461 @@
+# Reading pref.tcl
+# OpenFile {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/assignment1.mpf}
+# Loading project assignment1
+vsim -gui work.TB_Assignment1
+# vsim -gui work.TB_Assignment1 
+# Start time: 14:05:26 on Aug 19,2024
+# Loading work.TB_Assignment1
+# Loading work.Assignment_1
+# Loading work.And_2in_Nbit
+# Loading work.Or_2in_Nbit
+# Loading work.Nand_2in_Nbit
+# Loading work.Nor_2in_Nbit
+# Loading work.Xor_2in_Nbit
+# Loading work.Xnor_2in_Nbit
+# Loading work.Mul_by2_Nbit
+# Loading work.Div_by2_Nbit
+# Loading work.Mux_8x1_Nbit
+add wave -position insertpoint sim:/TB_Assignment1/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: tryte  Hostname: RAMT  ProcessID: 26508
+#           Attempting to use alternate WLF file "./wlft4rjc22".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft4rjc22
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/wave.do}
+quit -sim
+# End time: 14:53:19 on Aug 19,2024, Elapsed time: 0:47:53
+# Errors: 0, Warnings: 3
+vsim -gui work.TB_Assignment1
+# vsim -gui work.TB_Assignment1 
+# Start time: 14:53:32 on Aug 19,2024
+# Loading work.TB_Assignment1
+# Loading work.Assignment_1
+# Loading work.And_2in_Nbit
+# Loading work.Or_2in_Nbit
+# Loading work.Nand_2in_Nbit
+# Loading work.Nor_2in_Nbit
+# Loading work.Xor_2in_Nbit
+# Loading work.Xnor_2in_Nbit
+# Loading work.Mul_by2_Nbit
+# Loading work.Div_by2_Nbit
+# Loading work.Mux_8x1_Nbit
+add wave -position insertpoint sim:/TB_Assignment1/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: tryte  Hostname: RAMT  ProcessID: 26508
+#           Attempting to use alternate WLF file "./wlftsf7geh".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftsf7geh
+run
+# Compile of Top_assign1.v was successful.
+# Compile of TB_Assignment1.v was successful.
+quit -sim
+vsim -gui work.TB_Assignment1
+# End time: 15:19:34 on Aug 19,2024, Elapsed time: 0:26:02
+# Errors: 0, Warnings: 6
+# vsim -gui work.TB_Assignment1 
+# Start time: 15:19:35 on Aug 19,2024
+# Loading work.TB_Assignment1
+# Loading work.Assignment_1
+# Loading work.And_2in_Nbit
+# Loading work.Or_2in_Nbit
+# Loading work.Nand_2in_Nbit
+# Loading work.Nor_2in_Nbit
+# Loading work.Xor_2in_Nbit
+# Loading work.Xnor_2in_Nbit
+# Loading work.Mul_by2_Nbit
+# Loading work.Div_by2_Nbit
+# Loading work.Mux_8x1_Nbit
+add wave -position insertpoint sim:/TB_Assignment1/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: tryte  Hostname: RAMT  ProcessID: 26508
+#           Attempting to use alternate WLF file "./wlftti6493".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftti6493
+run -all
+# ** Note: $finish    : C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Assignment1.v(36)
+#    Time: 280 ps  Iteration: 0  Instance: /TB_Assignment1
+# 1
+# Break in Module TB_Assignment1 at C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Assignment1.v line 36
+# Compile of TB_Assignment1.v failed with 1 errors.
+# Compile of TB_Assignment1.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_Assignment1
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# 100, 0001, 1001, 0011
+# 011, 1101, 1101, 1000
+# 101, 0010, 0001, 0010
+# 101, 0110, 1101, 1100
+# 101, 1100, 1001, 0100
+# 110, 0101, 1010, 1010
+# 101, 0111, 0010, 1010
+# 111, 0010, 1110, 1010
+# 000, 0101, 1100, 0001
+# 101, 1101, 0101, 0100
+# 011, 1010, 0000, 0111
+# 000, 1010, 1101, 0101
+# 110, 0011, 1101, 1000
+# 011, 1011, 0101, 0110
+# 010, 1110, 1101, 0000
+# 111, 0011, 1010, 0011
+# 010, 1100, 0010, 0001
+# 010, 0001, 1000, 1111
+# 000, 1001, 1011, 1111
+# 110, 0110, 1110, 1001
+# ** Note: $finish    : C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Assignment1.v(37)
+#    Time: 280 ps  Iteration: 0  Instance: /TB_Assignment1
+# 1
+# Break in Module TB_Assignment1 at C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Assignment1.v line 37
+# Compile of TB_Assignment1.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_Assignment1
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# s = 000,a = 1001,b = 1010,c = 1000
+# s = 001,a = 0100,b = 1000,c = 1100
+# s = 010,a = 1001,b = 1010,c = 0111
+# s = 011,a = 0100,b = 1000,c = 0011
+# s = 100,a = 1110,b = 0111,c = 1001
+# s = 101,a = 1110,b = 0111,c = 0110
+# s = 110,a = 0011,b = 0000,c = 0110
+# s = 111,a = 0110,b = 0000,c = 0011
+# 100, 0001, 1001, 0011
+# s = 100,a = 0001,b = 1001,c = 1000
+# 011, 1101, 1101, 1000
+# s = 011,a = 1101,b = 1101,c = 0010
+# 101, 0010, 0001, 0010
+# s = 101,a = 0010,b = 0001,c = 1100
+# 101, 0110, 1101, 1100
+# s = 101,a = 0110,b = 1101,c = 0100
+# 101, 1100, 1001, 0100
+# s = 101,a = 1100,b = 1001,c = 1010
+# 110, 0101, 1010, 1010
+# s = 110,a = 0101,b = 1010,c = 1010
+# 101, 0111, 0010, 1010
+# s = 101,a = 0111,b = 0010,c = 1010
+# 111, 0010, 1110, 1010
+# s = 111,a = 0010,b = 1110,c = 0001
+# 000, 0101, 1100, 0001
+# s = 000,a = 0101,b = 1100,c = 0100
+# 101, 1101, 0101, 0100
+# s = 101,a = 1101,b = 0101,c = 0111
+# 011, 1010, 0000, 0111
+# s = 011,a = 1010,b = 0000,c = 0101
+# 000, 1010, 1101, 0101
+# s = 000,a = 1010,b = 1101,c = 1000
+# 110, 0011, 1101, 1000
+# s = 110,a = 0011,b = 1101,c = 0110
+# 011, 1011, 0101, 0110
+# s = 011,a = 1011,b = 0101,c = 0000
+# 010, 1110, 1101, 0000
+# s = 010,a = 1110,b = 1101,c = 0011
+# 111, 0011, 1010, 0011
+# s = 111,a = 0011,b = 1010,c = 0001
+# 010, 1100, 0010, 0001
+# s = 010,a = 1100,b = 0010,c = 1111
+# 010, 0001, 1000, 1111
+# s = 010,a = 0001,b = 1000,c = 1111
+# 000, 1001, 1011, 1111
+# s = 000,a = 1001,b = 1011,c = 1001
+# 110, 0110, 1110, 1001
+# ** Note: $finish    : C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Assignment1.v(37)
+#    Time: 280 ps  Iteration: 0  Instance: /TB_Assignment1
+# 1
+# Break in Module TB_Assignment1 at C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Assignment1.v line 37
+# Compile of TB_Assignment1.v failed with 2 errors.
+# Compile of TB_Assignment1.v failed with 2 errors.
+# Compile of TB_Assignment1.v failed with 2 errors.
+# Compile of And_2in_Nbit.v was successful.
+# Compile of Or_2in_Nbit.v was successful.
+# Compile of Nand_2in_Nbit.v was successful.
+# Compile of Nor_2in_Nbit.v was successful.
+# Compile of Xor_2in_Nbit.v was successful.
+# Compile of Xnor_2in_Nbit.v was successful.
+# Compile of Mul_by2_Nbit.v was successful.
+# Compile of Div_by2_Nbit.v was successful.
+# Compile of Mux_8x1_Nbit.v was successful.
+# Compile of Assignment_1.v was successful.
+# Compile of TB_Assignment1.v failed with 1 errors.
+# Compile of Top_assign1.v was successful.
+# 12 compiles, 1 failed with 1 error.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/assignment1.mpf).  File can not be renamed.
+# Compile of TB_Assignment1.v failed with 1 errors.
+# Compile of TB_Assignment1.v failed with 1 errors.
+# Compile of TB_Assignment1.v was successful.
+# Compile of TB_Assignment1.v was successful.
+# Compile of And_2in_Nbit.v was successful.
+# Compile of Or_2in_Nbit.v was successful.
+# Compile of Nand_2in_Nbit.v was successful.
+# Compile of Nor_2in_Nbit.v was successful.
+# Compile of Xor_2in_Nbit.v was successful.
+# Compile of Xnor_2in_Nbit.v was successful.
+# Compile of Mul_by2_Nbit.v was successful.
+# Compile of Div_by2_Nbit.v was successful.
+# Compile of Mux_8x1_Nbit.v was successful.
+# Compile of TB_Assignment1.v was successful.
+# Compile of Top_assign1.v was successful.
+# Compile of TB_Top_Assign1.v was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of And_2in_Nbit.v was successful.
+# Compile of Or_2in_Nbit.v was successful.
+# Compile of Nand_2in_Nbit.v was successful.
+# Compile of Nor_2in_Nbit.v was successful.
+# Compile of Xor_2in_Nbit.v was successful.
+# Compile of Xnor_2in_Nbit.v was successful.
+# Compile of Mul_by2_Nbit.v was successful.
+# Compile of Div_by2_Nbit.v was successful.
+# Compile of Mux_8x1_Nbit.v was successful.
+# Compile of Top_assign1.v was successful.
+# Compile of TB_Top_Assign1.v was successful.
+# 11 compiles, 0 failed with no errors.
+quit -sim
+# End time: 15:46:07 on Aug 19,2024, Elapsed time: 0:26:32
+# Errors: 1, Warnings: 16
+vsim -gui work.TB_Top_assign1
+# vsim -gui work.TB_Top_assign1 
+# Start time: 15:46:39 on Aug 19,2024
+# Loading work.TB_Top_assign1
+# ** Error: (vsim-3033) Instantiation of 'Top_assign_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Top_assign1 File: C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v Line: 10
+#         Searched libraries:
+#             C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/work
+# Error loading design
+# End time: 15:46:40 on Aug 19,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of And_2in_Nbit.v was successful.
+# Compile of Or_2in_Nbit.v was successful.
+# Compile of Nand_2in_Nbit.v was successful.
+# Compile of Nor_2in_Nbit.v was successful.
+# Compile of Xor_2in_Nbit.v was successful.
+# Compile of Xnor_2in_Nbit.v was successful.
+# Compile of Mul_by2_Nbit.v was successful.
+# Compile of Div_by2_Nbit.v was successful.
+# Compile of Mux_8x1_Nbit.v was successful.
+# Compile of Top_assign1.v was successful.
+# Compile of TB_Top_Assign1.v was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui work.TB_Top_assign1
+# vsim -gui work.TB_Top_assign1 
+# Start time: 15:47:52 on Aug 19,2024
+# Loading work.TB_Top_assign1
+# Loading work.Top_assign1
+# Loading work.And_2in_Nbit
+# Loading work.Or_2in_Nbit
+# Loading work.Nand_2in_Nbit
+# Loading work.Nor_2in_Nbit
+# Loading work.Xor_2in_Nbit
+# Loading work.Xnor_2in_Nbit
+# Loading work.Mul_by2_Nbit
+# Loading work.Div_by2_Nbit
+# Loading work.Mux_8x1_Nbit
+add wave -position insertpoint sim:/TB_Top_assign1/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: tryte  Hostname: RAMT  ProcessID: 26508
+#           Attempting to use alternate WLF file "./wlft5s6ivy".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft5s6ivy
+run -all
+# s = xxx,a = xxxx,b = xxxx,c = xxxx
+# s = 100,a = 0001,b = 1001,c = 1000
+# 100, 0001, 1001, 1000
+# s = 011,a = 1101,b = 1101,c = 0010
+# 011, 1101, 1101, 0010
+# s = 101,a = 0010,b = 0001,c = 1100
+# 101, 0010, 0001, 1100
+# s = 101,a = 0110,b = 1101,c = 0100
+# 101, 0110, 1101, 0100
+# s = 101,a = 1100,b = 1001,c = 1010
+# 101, 1100, 1001, 1010
+# s = 110,a = 0101,b = 1010,c = 1010
+# 110, 0101, 1010, 1010
+# s = 101,a = 0111,b = 0010,c = 1010
+# 101, 0111, 0010, 1010
+# s = 111,a = 0010,b = 1110,c = 0001
+# 111, 0010, 1110, 0001
+# s = 000,a = 0101,b = 1100,c = 0100
+# 000, 0101, 1100, 0100
+# s = 101,a = 1101,b = 0101,c = 0111
+# 101, 1101, 0101, 0111
+# s = 011,a = 1010,b = 0000,c = 0101
+# 011, 1010, 0000, 0101
+# s = 000,a = 1010,b = 1101,c = 1000
+# 000, 1010, 1101, 1000
+# s = 110,a = 0011,b = 1101,c = 0110
+# 110, 0011, 1101, 0110
+# s = 011,a = 1011,b = 0101,c = 0000
+# 011, 1011, 0101, 0000
+# s = 010,a = 1110,b = 1101,c = 0011
+# 010, 1110, 1101, 0011
+# s = 111,a = 0011,b = 1010,c = 0001
+# 111, 0011, 1010, 0001
+# s = 010,a = 1100,b = 0010,c = 1111
+# 010, 1100, 0010, 1111
+# s = 010,a = 0001,b = 1000,c = 1111
+# 010, 0001, 1000, 1111
+# s = 000,a = 1001,b = 1011,c = 1001
+# 000, 1001, 1011, 1001
+# s = 110,a = 0110,b = 1110,c = 1100
+# 110, 0110, 1110, 1100
+# ** Note: $finish    : C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v(40)
+#    Time: 300 ps  Iteration: 0  Instance: /TB_Top_assign1
+# 1
+# Break in Module TB_Top_assign1 at C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v line 40
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# s = xxx,a = xxxx,b = xxxx,c = xxxx
+# s = 100,a = 0001,b = 1001,c = 1000
+# 100, 0001, 1001, 1000
+# s = 011,a = 1101,b = 1101,c = 0010
+# 011, 1101, 1101, 0010
+# s = 101,a = 0010,b = 0001,c = 1100
+# 101, 0010, 0001, 1100
+# s = 101,a = 0110,b = 1101,c = 0100
+# 101, 0110, 1101, 0100
+# s = 101,a = 1100,b = 1001,c = 1010
+# 101, 1100, 1001, 1010
+# s = 110,a = 0101,b = 1010,c = 1010
+# 110, 0101, 1010, 1010
+# s = 101,a = 0111,b = 0010,c = 1010
+# 101, 0111, 0010, 1010
+# s = 111,a = 0010,b = 1110,c = 0001
+# 111, 0010, 1110, 0001
+# s = 000,a = 0101,b = 1100,c = 0100
+# 000, 0101, 1100, 0100
+# s = 101,a = 1101,b = 0101,c = 0111
+# 101, 1101, 0101, 0111
+# s = 011,a = 1010,b = 0000,c = 0101
+# 011, 1010, 0000, 0101
+# s = 000,a = 1010,b = 1101,c = 1000
+# 000, 1010, 1101, 1000
+# s = 110,a = 0011,b = 1101,c = 0110
+# 110, 0011, 1101, 0110
+quit -sim
+# End time: 15:50:16 on Aug 19,2024, Elapsed time: 0:02:24
+# Errors: 0, Warnings: 1
+# Compile of And_2in_Nbit.v was successful.
+# Compile of Or_2in_Nbit.v was successful.
+# Compile of Nand_2in_Nbit.v was successful.
+# Compile of Nor_2in_Nbit.v was successful.
+# Compile of Xor_2in_Nbit.v was successful.
+# Compile of Xnor_2in_Nbit.v was successful.
+# Compile of Mul_by2_Nbit.v was successful.
+# Compile of Div_by2_Nbit.v was successful.
+# Compile of Mux_8x1_Nbit.v was successful.
+# Compile of Top_assign1.v was successful.
+# Compile of TB_Top_Assign1.v was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui work.TB_Top_assign1
+# vsim -gui work.TB_Top_assign1 
+# Start time: 15:50:41 on Aug 19,2024
+# Loading work.TB_Top_assign1
+# Loading work.Top_assign1
+# Loading work.And_2in_Nbit
+# Loading work.Or_2in_Nbit
+# Loading work.Nand_2in_Nbit
+# Loading work.Nor_2in_Nbit
+# Loading work.Xor_2in_Nbit
+# Loading work.Xnor_2in_Nbit
+# Loading work.Mul_by2_Nbit
+# Loading work.Div_by2_Nbit
+# Loading work.Mux_8x1_Nbit
+add wave -position insertpoint sim:/TB_Top_assign1/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: tryte  Hostname: RAMT  ProcessID: 26508
+#           Attempting to use alternate WLF file "./wlftb8igd6".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftb8igd6
+run
+# s = 100,a = 0001,b = 1001,c = 1000
+# 100, 0001, 1001, 1000
+# s = 011,a = 1101,b = 1101,c = 0010
+# 011, 1101, 1101, 0010
+# s = 101,a = 0010,b = 0001,c = 1100
+# 101, 0010, 0001, 1100
+# s = 101,a = 0110,b = 1101,c = 0100
+# 101, 0110, 1101, 0100
+# s = 101,a = 1100,b = 1001,c = 1010
+# 101, 1100, 1001, 1010
+# s = 110,a = 0101,b = 1010,c = 1010
+# 110, 0101, 1010, 1010
+# s = 101,a = 0111,b = 0010,c = 1010
+# 101, 0111, 0010, 1010
+# s = 111,a = 0010,b = 1110,c = 0001
+# 111, 0010, 1110, 0001
+# s = 000,a = 0101,b = 1100,c = 0100
+# 000, 0101, 1100, 0100
+# s = 101,a = 1101,b = 0101,c = 0111
+# 101, 1101, 0101, 0111
+# s = 011,a = 1010,b = 0000,c = 0101
+# 011, 1010, 0000, 0101
+# s = 000,a = 1010,b = 1101,c = 1000
+# 000, 1010, 1101, 1000
+# s = 110,a = 0011,b = 1101,c = 0110
+# 110, 0011, 1101, 0110
+# s = 011,a = 1011,b = 0101,c = 0000
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# s = 100,a = 0001,b = 1001,c = 1000
+# 100, 0001, 1001, 1000
+# s = 011,a = 1101,b = 1101,c = 0010
+# 011, 1101, 1101, 0010
+# s = 101,a = 0010,b = 0001,c = 1100
+# 101, 0010, 0001, 1100
+# s = 101,a = 0110,b = 1101,c = 0100
+# 101, 0110, 1101, 0100
+# s = 101,a = 1100,b = 1001,c = 1010
+# 101, 1100, 1001, 1010
+# s = 110,a = 0101,b = 1010,c = 1010
+# 110, 0101, 1010, 1010
+# s = 101,a = 0111,b = 0010,c = 1010
+# 101, 0111, 0010, 1010
+# s = 111,a = 0010,b = 1110,c = 0001
+# 111, 0010, 1110, 0001
+# s = 000,a = 0101,b = 1100,c = 0100
+# 000, 0101, 1100, 0100
+# s = 101,a = 1101,b = 0101,c = 0111
+# 101, 1101, 0101, 0111
+# s = 011,a = 1010,b = 0000,c = 0101
+# 011, 1010, 0000, 0101
+# s = 000,a = 1010,b = 1101,c = 1000
+# 000, 1010, 1101, 1000
+# s = 110,a = 0011,b = 1101,c = 0110
+# 110, 0011, 1101, 0110
+# s = 011,a = 1011,b = 0101,c = 0000
+# 011, 1011, 0101, 0000
+# s = 010,a = 1110,b = 1101,c = 0011
+# 010, 1110, 1101, 0011
+# s = 111,a = 0011,b = 1010,c = 0001
+# 111, 0011, 1010, 0001
+# s = 010,a = 1100,b = 0010,c = 1111
+# 010, 1100, 0010, 1111
+# s = 010,a = 0001,b = 1000,c = 1111
+# 010, 0001, 1000, 1111
+# s = 000,a = 1001,b = 1011,c = 1001
+# 000, 1001, 1011, 1001
+# s = 110,a = 0110,b = 1110,c = 1100
+# 110, 0110, 1110, 1100
+# ** Note: $finish    : C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v(41)
+#    Time: 300 ps  Iteration: 0  Instance: /TB_Top_assign1
+# 1
+# Break in Module TB_Top_assign1 at C:/Users/tryte/OneDrive - iittp.ac.in/Documents/assignment1/TB_Top_Assign1.v line 41
+# A time value could not be extracted from the current line
+# End time: 20:32:16 on Aug 19,2024, Elapsed time: 4:41:35
+# Errors: 0, Warnings: 1
